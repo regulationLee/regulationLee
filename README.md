@@ -16,7 +16,7 @@ My research interests are primarily related to personalized artificial intellige
 - [Defence Science Journal] **Predictive Factor Analysis of Air-to-Air Engagement Outcomes Using Air Combat Manoeuvring Instrumentation Data** [page]
   - **Gyuejeong Lee**, Yong-hwan Kim, Daeyoung Choi
  
-## Teaching Experience
+## Courses and Talks
 - **Reinforcement Learning** | Cyber University of Korea – Fall 2024  
 - **Deep Learning** | Cyber University of Korea – Spring 2025
 
