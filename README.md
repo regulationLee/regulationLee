@@ -19,6 +19,7 @@ My research interests are primarily related to personalized artificial intellige
 ## Courses and Talks
 - **Reinforcement Learning** | Cyber University of Korea – Fall 2024  
 - **Deep Learning** | Cyber University of Korea – Spring 2025
+- **AI/Big Data Colloquium** | Cyber University of Korea [[video](https://www.youtube.com/watch?v=Wg3i_5lQd9k)]
 
 <!--
 **regulationLee/regulationLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
