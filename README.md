@@ -5,7 +5,7 @@ I am Gyuejeong Lee, an AI researcher, and the co-founder and director of the AI/
 My research interests are primarily related to personalized artificial intelligence, including personalized federated learning, machine learning, and personalized SLM with RL.
 
 ## Publication(Selected)
-# Personalized Federated Learning
+### Personalized Federated Learning
 - [ICCV'25 Accepted] **Class-Wise Federated Averaging for Efficient Personalization** [page]
   - **Gyuejeong Lee**, Daeyoung Choi
 - **TinyProto: Communication-Efficient Federated Learning with Sparse Prototypes in Resource-Constrained Environments** [page]
@@ -13,7 +13,7 @@ My research interests are primarily related to personalized artificial intellige
 - **Heterogeneous Federated Learning with Prototype Alignment and Upscaling** [page]
   - **Gyuejeong Lee**, Jihwan Shin, Daeyoung Choi
  
-# FL in Application
+### FL in Application
 - [Defence Science Journal] **Predictive Factor Analysis of Air-to-Air Engagement Outcomes Using Air Combat Manoeuvring Instrumentation Data** [page]
   - **Gyuejeong Lee**, Yong-hwan Kim, Daeyoung Choi
 
