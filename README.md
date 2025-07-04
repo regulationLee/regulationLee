@@ -1,5 +1,4 @@
 ## Biography
-
 I am Gyuejeong Lee, an AI researcher, and the co-founder and director of the AI/Data Lab at SAKAK Inc.
 
 My research interests are primarily related to personalized artificial intelligence, including personalized federated learning, machine learning, and personalized SLM with RL.
