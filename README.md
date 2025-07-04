@@ -3,7 +3,7 @@ I am Gyuejeong Lee, an AI researcher, and the co-founder and director of the AI/
 
 My research interests are primarily related to personalized artificial intelligence, including personalized federated learning, machine learning, and personalized SLM with RL.
 
-## Publication(Selected)
+## Publication(Selected, [Google Scholar](https://scholar.google.co.kr/citations?user=N2N5IMoAAAAJ&hl=en))
 ### Personalized Federated Learning
 - ✨ **[ICCV'25 Accepted] Class-Wise Federated Averaging for Efficient Personalization** [[project page](https://github.com/regulationLee/cwFedAvg)]
   - **Gyuejeong Lee**, Daeyoung Choi
