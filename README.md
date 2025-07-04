@@ -1,5 +1,5 @@
 ## Biography
-I am Gyuejeong Lee, an AI researcher, and the co-founder and director of the AI/Data Lab at SAKAK Inc.
+I am Gyuejeong Lee, an AI researcher, and the co-founder and director of the AI/Data Lab at SAKAK Inc. I received my Ph.D. under the supervision of Prof. Nojun Kwak at Seoul National University, and I am currently actively collaborating with Prof. Daeyoung Choi at the Cyber University of Korea.
 
 My research interests are primarily related to personalized artificial intelligence, including personalized federated learning, machine learning, and personalized SLM with RL.
 
@@ -15,6 +15,10 @@ My research interests are primarily related to personalized artificial intellige
 ### FL in Application
 - [Defence Science Journal] **Predictive Factor Analysis of Air-to-Air Engagement Outcomes Using Air Combat Manoeuvring Instrumentation Data** [page]
   - **Gyuejeong Lee**, Yong-hwan Kim, Daeyoung Choi
+ 
+## Teaching Experience
+- **Reinforcement Learning** | Cyber University of Korea – Fall 2024  
+- **Deep Learning** | Cyber University of Korea – Spring 2025
 
 <!--
 **regulationLee/regulationLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
