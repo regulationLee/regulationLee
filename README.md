@@ -1,7 +1,7 @@
 ## Biography
 I am Gyuejeong Lee, an AI researcher, and the co-founder and director of the AI/Data Lab at [SAKAK Inc.](https://www.sakak.co.kr/?redirect=no) I received my Ph.D. under the supervision of Prof. [Nojun Kwak](https://scholar.google.com/citations?user=h_8-1M0AAAAJ&hl=en) at Seoul National University, and I am currently actively collaborating with Prof. Daeyoung Choi at the Cyber University of Korea.
 
-My research interests are primarily related to personalized artificial intelligence, including personalized federated learning, machine learning, and personalized SLM with RL.
+My research interests are primarily related to personalized artificial intelligence, including personalized federated learning, machine Unlearning, and personalized SLM(Small Language Model) with RL.
 
 ## Publication(Selected, [Google Scholar](https://scholar.google.co.kr/citations?user=N2N5IMoAAAAJ&hl=en))
 ### Personalized Federated Learning
