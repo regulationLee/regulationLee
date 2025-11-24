@@ -13,7 +13,7 @@ My research interests are primarily related to personalized artificial intellige
   - **Gyuejeong Lee**, Jihwan Shin, Daeyoung Choi
  
 ### FL in Application
-- [Defence Science Journal] **Predictive Factor Analysis of Air-to-Air Engagement Outcomes Using Air Combat Manoeuvring Instrumentation Data**
+- ✨ [Defence Science Journal] **Predictive Factor Analysis of Air-to-Air Engagement Outcomes Using Air Combat Manoeuvring Instrumentation Data** [[page](https://publications.drdo.gov.in/ojs/index.php/dsj/article/view/20014)]
   - **Gyuejeong Lee**, Yong-hwan Kim, Daeyoung Choi
  
 ## Courses and Talks
