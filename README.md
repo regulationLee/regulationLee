@@ -10,11 +10,14 @@ My research interests are primarily related to personalized artificial intellige
 - ✨ **[AAAI'26 Accepted] TinyProto: Communication-Efficient Federated Learning with Sparse Prototypes in Resource-Constrained Environments** [[project page](https://github.com/regulationLee/TinyProto)]
   - **Gyuejeong Lee**, Daeyoung Choi
 - **Heterogeneous Federated Learning with Prototype Alignment and Upscaling** [[project page](https://github.com/regulationLee/ProtoNorm)]
-  - **Gyuejeong Lee**, Jihwan Shin, Daeyoung Choi
+  - Daeyoung Choi, Jihwan Shin, **Gyuejeong Lee**
  
 ### FL in Application
 - ✨ [Defence Science Journal] **Predictive Factor Analysis of Air-to-Air Engagement Outcomes Using Air Combat Manoeuvring Instrumentation Data** [[page](https://publications.drdo.gov.in/ojs/index.php/dsj/article/view/20014)]
   - **Gyuejeong Lee**, Yong-hwan Kim, Daeyoung Choi
+
+## Industry Collaboration
+- **Qualcomm AI Program for Innovator(QAIPI) 2025 - APAC** | Tech Leader of the Shortlisted Startup "SAKAK"
  
 ## Courses and Talks
 - **Reinforcement Learning** | Cyber University of Korea – Fall 2024  
