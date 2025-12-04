@@ -7,7 +7,7 @@ My research interests are primarily related to personalized artificial intellige
 ### Personalized Federated Learning
 - ✨ **[ICCV'25] Class-Wise Federated Averaging for Efficient Personalization** [[project page](https://github.com/regulationLee/cwFedAvg)]
   - **Gyuejeong Lee**, Daeyoung Choi
-- ✨ **[AAAI'26 Accepted] TinyProto: Communication-Efficient Federated Learning with Sparse Prototypes in Resource-Constrained Environments** [[project page](https://github.com/regulationLee/TinyProto)]
+- ✨ **[AAAI'26 Accepted] Communication-Efficient Heterogeneous Federated Learning with Sparse Prototypes in Resource-Constrained Environments** [[project page](https://github.com/regulationLee/TinyProto)]
   - **Gyuejeong Lee**, Daeyoung Choi
 - **Heterogeneous Federated Learning with Prototype Alignment and Upscaling** [[project page](https://github.com/regulationLee/ProtoNorm)]
   - Daeyoung Choi, Jihwan Shin, **Gyuejeong Lee**
